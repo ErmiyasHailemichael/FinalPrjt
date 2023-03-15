@@ -19,7 +19,7 @@ A simple React web application that can perform CRUD. The user can create, read,
 [Live Link](https://capstoneapp.netlify.app/)
 
 
-# Backend Repository
+# Frontend Repository
 
 [Backend](https://github.com/ErmiyasHailemichael/React-with-Tailwind-CSS)
 
